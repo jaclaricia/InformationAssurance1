@@ -1,6 +1,6 @@
-MO-IT147 Information Assurance and Security 1
-Group 3 - CyberOps
-Members: Claricia, Tan, Belda, Pablo Jr.
+### MO-IT147 Information Assurance and Security 1
+#### Group 3 - CyberOps
+#### Members: Claricia, Tan, Belda, Pablo Jr.
 
 # TrustPaySecure: Encrypted Payroll Management System for MotorPH
 

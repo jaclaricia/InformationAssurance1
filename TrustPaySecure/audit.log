@@ -1,0 +1,70 @@
+May 31, 2025 4:52:13 PM TrustPaySecure log
+INFO: SYSTEM: Failed login attempt: admin
+May 31, 2025 4:52:20 PM TrustPaySecure log
+INFO: SYSTEM: Failed login attempt: admin
+May 31, 2025 4:52:30 PM TrustPaySecure log
+INFO: SYSTEM: Failed login attempt: user
+May 31, 2025 4:57:01 PM TrustPaySecure log
+INFO: SYSTEM: Failed login attempt: admin
+May 31, 2025 4:59:36 PM TrustPaySecure log
+INFO: admin: User logged in: admin
+May 31, 2025 4:59:52 PM TrustPaySecure log
+INFO: admin: Record added: Jon,10000
+May 31, 2025 4:59:55 PM TrustPaySecure log
+INFO: admin: Viewed payroll records
+May 31, 2025 5:00:10 PM TrustPaySecure log
+INFO: admin: Viewed payroll records
+May 31, 2025 5:00:11 PM TrustPaySecure log
+INFO: admin: Viewed payroll records
+May 31, 2025 5:00:20 PM TrustPaySecure log
+INFO: admin: Record added: Cris,15000
+May 31, 2025 5:00:23 PM TrustPaySecure log
+INFO: admin: Viewed payroll records
+May 31, 2025 5:00:24 PM TrustPaySecure log
+INFO: admin: Viewed payroll records
+May 31, 2025 5:00:25 PM TrustPaySecure log
+INFO: admin: Viewed payroll records
+May 31, 2025 5:00:25 PM TrustPaySecure log
+INFO: admin: Viewed payroll records
+May 31, 2025 5:00:25 PM TrustPaySecure log
+INFO: admin: Viewed payroll records
+May 31, 2025 5:00:27 PM TrustPaySecure log
+INFO: admin: Viewed payroll records
+May 31, 2025 5:00:27 PM TrustPaySecure log
+INFO: admin: Viewed payroll records
+May 31, 2025 5:00:27 PM TrustPaySecure log
+INFO: admin: Viewed payroll records
+May 31, 2025 5:00:27 PM TrustPaySecure log
+INFO: admin: Viewed payroll records
+May 31, 2025 5:00:27 PM TrustPaySecure log
+INFO: admin: Viewed payroll records
+May 31, 2025 5:00:28 PM TrustPaySecure log
+INFO: admin: Viewed payroll records
+May 31, 2025 5:00:28 PM TrustPaySecure log
+INFO: admin: Viewed payroll records
+May 31, 2025 5:00:28 PM TrustPaySecure log
+INFO: admin: Viewed payroll records
+May 31, 2025 5:00:29 PM TrustPaySecure log
+INFO: admin: Viewed payroll records
+May 31, 2025 5:00:29 PM TrustPaySecure log
+INFO: admin: Viewed payroll records
+May 31, 2025 5:00:31 PM TrustPaySecure log
+INFO: admin: Viewed payroll records
+May 31, 2025 5:00:31 PM TrustPaySecure log
+INFO: admin: Viewed payroll records
+May 31, 2025 5:00:54 PM TrustPaySecure log
+INFO: admin: User logged out: admin
+May 31, 2025 5:00:59 PM TrustPaySecure log
+INFO: user: User logged in: user
+May 31, 2025 5:01:03 PM TrustPaySecure log
+INFO: user: Viewed payroll records
+May 31, 2025 5:01:15 PM TrustPaySecure log
+INFO: user: Viewed payroll records
+May 31, 2025 5:01:26 PM TrustPaySecure log
+INFO: user: User logged out: user
+May 31, 2025 5:01:30 PM TrustPaySecure log
+INFO: admin: User logged in: admin
+May 31, 2025 5:01:38 PM TrustPaySecure log
+INFO: admin: Viewed payroll records
+May 31, 2025 5:01:40 PM TrustPaySecure log
+INFO: admin: Viewed payroll records
